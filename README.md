@@ -1,7 +1,6 @@
-(https://scontent.fccu13-1.fna.fbcdn.net/v/t39.30808-6/277810073_140248245198105_4275392826765038125_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=nyRhtYPKUI8AX-6QVsA&_nc_ht=scontent.fccu13-1.fna&oh=00_AT9hv7DkJS-IpiypMcO9mnQ9RnsBJwc8wC3AWBoGJZyXMA&oe=62655129)
 ### Hi there 👋, My Name  is Sourav Mandal
 #### I am Front-end & Back-end web developer
-![I am Front-end & Back-end web developer]
+![I am Front-end & Back-end web developer](https://scontent.fccu13-1.fna.fbcdn.net/v/t39.30808-6/277810073_140248245198105_4275392826765038125_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=nyRhtYPKUI8AX-6QVsA&_nc_ht=scontent.fccu13-1.fna&oh=00_AT9hv7DkJS-IpiypMcO9mnQ9RnsBJwc8wC3AWBoGJZyXMA&oe=62655129)
 
 Hey there 👋 I am a full-stack web developer from India. I always like to use advanced Technology for creating useful products. and I like to use advanced programming languages like python, java, c++. etc.. and I love machine learning.
 
