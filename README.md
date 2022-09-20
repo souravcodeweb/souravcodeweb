@@ -1,14 +1,13 @@
 ### Hi there 👋, My Name  is Sourav Mandal
-#### I am Front-end & Back-end web developer
-![gitback](https://user-images.githubusercontent.com/87852919/167628453-00bf380b-0880-469e-b42c-efeb1af86e29.png)
-
+#### I am a full stack web developer
+![-p7t5lf](https://user-images.githubusercontent.com/87852919/191326051-a67fbca1-dda3-4edf-8efb-7b747ba91f1f.jpg)
 
 
 Hey there 👋 I am a full-stack web developer from India. I always like to use advanced Technology for creating useful products. and I like to use advanced programming languages & Framework like python, JavaScript, React, CSS, HTML, Git etc.. and I love machine learning.
 
 ## 🚀 Languages and Tools:
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 <br/>
 
 - 🔭 I’m currently working on Open source project 
