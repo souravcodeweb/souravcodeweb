@@ -3,7 +3,7 @@
 ![-p7t5lf](https://user-images.githubusercontent.com/87852919/191326051-a67fbca1-dda3-4edf-8efb-7b747ba91f1f.jpg)
 
 
-Hey there 👋 I am a full-stack web developer from India. I always like to use advanced Technology for creating useful products. and I like to use advanced programming languages & Framework like python, JavaScript, React, CSS, HTML, Git etc.. and I love machine learning.
+Hey there 👋 I am a full-stack web developer from India. I always like to use advanced Technology for creating useful products. and I like to use advanced programming languages & Framework like python, JavaScript, React, CSS, HTML etc.. and I love React & nextjs.
 
 ## 🚀 Languages and Tools:
 
