@@ -31,7 +31,7 @@ Hey there 👋 I am a full-stack web developer from India. I always like to use 
 ## ❤ Views and Followers
 
 <a href="https://twitter.com/souravcode" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sourav_code?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> &nbsp;&nbsp;
+src="https://img.shields.io/twitter/follow/souravcode?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> &nbsp;&nbsp;
   <br>
 <a href="https://github.com/souravcodeweb" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/souravcodeweb?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
