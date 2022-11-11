@@ -1,49 +1,63 @@
-### Hi there 👋, My Name  is Sourav Mandal
-#### I am a full stack web developer
-![-p7t5lf](https://user-images.githubusercontent.com/87852919/191326051-a67fbca1-dda3-4edf-8efb-7b747ba91f1f.jpg)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sourav Mandal
+=====================================================================================================================================
 
+i am a Full Stack Web Developer
+-------------------------------
 
-Hey there 👋 I am a full-stack web developer from India. I always like to use advanced Technology for creating useful products. and I like to use advanced programming languages & Framework like python, JavaScript, React, CSS, HTML etc.. and I love React & nextjs.
+Hey there 👋 I am a full-stack web developer from India. I always like to use advanced Technology for creating useful products and I like to use advanced programming languages & Framework like python, JavaScript, React, CSS, HTML etc..
 
-## 🚀 Languages and Tools:
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [Sourav Mandal](http://souravmandal.com)
+* ✉️  You can contact me at [souravmandal@souravmandal.com](mailto:souravmandal@souravmandal.com)
+* 🚀  I'm currently working on [Next JS](http://souravmandal.com)
+* 🧠  I'm learning Web3
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-<br/>
+<a href="https://www.twitter.com/souravcode" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/souravcode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/souravcodeweb" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/souravcodeweb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-- 🔭 I’m currently working on Open source project 
-- 🌱 I’m currently learning Blockchain Technology 
-- 👯 I’m looking to collaborate on Twitter 
-- 💬 Ask me about Any programming related question 
-- 📫 How to reach me: Twitter 
+### Skills
 
-
-## Connect with me:
 
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/%E2%9A%A1sourav-mandal%E2%9A%A1-390361218/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
-<a href = "https://twitter.com/sourav_code"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
-<a href = "https://www.instagram.com/souravcode/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="30px"/></a>
-<a href = "https://www.youtube.com/channel/UC34QqM-x6iaOD9ikoch9FAg/about"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="30px"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
-## ❤ Views and Followers
+### Socials
 
-<a href="https://twitter.com/souravcode" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/souravcode?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/> &nbsp;&nbsp;
-  <br>
-<a href="https://github.com/souravcodeweb" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/souravcodeweb?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<p align="left"> <a href="https://www.github.com/souravcodeweb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/souravcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/souravcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/souravcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravcodeweb)](https://github.com/anuraghazra/github-readme-stats)
+### Badges
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=souravcodeweb&show_icons=true&count_private=true)  
+<b>My GitHub Stats</b>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=souravcodeweb)  
+<a href="http://www.github.com/souravcodeweb"><img src="https://github-readme-stats.vercel.app/api?username=souravcodeweb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="souravcodeweb's GitHub stats" /></a>
 
-![GitHub metrics](https://metrics.lecoq.io/souravcodeweb)  
+<a href="http://www.github.com/souravcodeweb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=souravcodeweb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=souravcodeweb)  
+<a href="http://www.github.com/souravcodeweb"><img src="https://activity-graph.herokuapp.com/graph?username=souravcodeweb&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-![Profile views](https://gpvc.arturio.dev/souravcodeweb)  
+<a href="https://github.com/souravcodeweb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravcodeweb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/souravmandal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
