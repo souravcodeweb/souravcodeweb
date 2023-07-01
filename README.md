@@ -4,15 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 i am a Full Stack Web Developer
 -------------------------------
 
-Hey there 👋 I am a full-stack web developer from India. I always like to use advanced Technology for creating useful products and I like to use advanced programming languages & Framework like python, JavaScript, React, CSS, HTML etc..
+Hey there 👋 I am a full-stack web developer from India. I always like to use advanced technology for creating useful products and I like to use advanced programming languages & frameworks like Python, JavaScript, React, CSS, HTML, etc.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Sourav Mandal](http://souravmandal.com)
-* ✉️  You can contact me at [souravmandal@souravmandal.com](mailto:souravmandal@souravmandal.com)
+* ✉️  You can contact me at [souravmandal909p@gmail.com](mailto:souravmandal909p@gmail.com.com)
 * 🚀  I'm currently working on [Next JS](http://souravmandal.com)
 * 🧠  I'm learning Web3
 
-<a href="https://www.twitter.com/souravcode" target="_blank" rel="noreferrer"><img
+<a href="[https://www.twitter.com/souravcode](https://twitter.com/_thisissourav_)" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/souravcode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/souravcodeweb" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/souravcodeweb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
