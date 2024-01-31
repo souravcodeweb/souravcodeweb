@@ -7,9 +7,9 @@ i am a Full Stack Web Developer
 Hey there 👋 I am a full-stack web developer from India. I always like to use advanced technology for creating useful products and I like to use advanced programming languages & frameworks like Python, JavaScript, React, CSS, HTML, etc.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Sourav Mandal](http://souravmandal.com)
+* 🖥️  See my portfolio at [Sourav Mandal]([www.souravcode.in](https://souravcode.in/))
 * ✉️  You can contact me at [souravmandal909p@gmail.com](mailto:souravmandal909p@gmail.com.com)
-* 🚀  I'm currently working on [Next JS](http://souravmandal.com)
+* 🚀  I'm currently working on [Next JS](https://souravcode.in/)
 * 🧠  I'm learning Web3
 
 <a href="[https://www.twitter.com/souravcode](https://twitter.com/_thisissourav_)" target="_blank" rel="noreferrer"><img
